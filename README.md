@@ -32,16 +32,6 @@ I am a passionate Backend Developer with a focus on Data Science and Machine Lea
 
 - Participated in a 24-hour Hackathon called HACKSRM 4.O and built an AR-based model for the education sector.
 
-## Education
-
-- B.Tech, Computer Science Engineering (CSE) with a CGPA of 9.44
-  SRM-AP, SRM University Road, Amaravati, Andhra Pradesh
-  2022 - 2026
-
-- Class XII with a CGPA of 9.68
-  Sri Chaitanya Junior College, Tenali
-  2022 - 2022
-
 ## Certifications & Courses
 
 - Data Analysis with Python
