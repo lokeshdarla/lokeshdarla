@@ -24,7 +24,7 @@ I am a passionate Backend Developer with a focus on Data Science and Machine Lea
 
 ## Position of Responsibility
 
-### Member | Next Tech Lab
+### Associate | Next Tech Lab
 - Gained experience and knowledge about new technologies.
 - Worked on various projects related to Python, Data Science, Machine Learning, and Deep Learning.
 
