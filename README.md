@@ -1,58 +1,10 @@
 # Lokesh Naga Sai Darla
 
-## Backend Developer • Data Science • Machine Learning Engineer
+## Data Science • Machine Learning Engineer
 
-I am a passionate Backend Developer with a focus on Data Science and Machine Learning. Currently pursuing my B.Tech in Computer Science Engineering at SRM-AP, SRM University Road, Amaravati, Andhra Pradesh.
-
-- 🔭 I'm currently working as a Data Scientist at Technocolabs Softwares, Indore.
+- 🔭 I'm currently working on building machine learning models.
 - 🌱 I have experience in end-to-end Data Science projects.
-- 👯 I have worked with SVM and KNN algorithms for Machine Learning tasks.
+- 👯 I have worked with regression and classification algorithms for Machine Learning tasks.
 - 💻 Proficient in Python, NumPy, Jupyter Notebook, and Machine Learning techniques.
-
-## Projects
-
-### Chemsite
-- Developed a portfolio webpage for a Chemistry Professor, showcasing research papers and research work.
-- Built the website based on the specific requirements of the professor.
-- Technologies used: HTML, Bootstrap, VS Code.
-
-### Credit Risk Analysis-Data Science
-- Conducted an end-to-end Data Science project focused on analyzing credit risk for P2P lending.
-- Performed exploratory data analysis, feature engineering, and monitored model efficiency using random forests.
-- Developed as part of Technocolab's Software Internship.
-- Technologies used: Python, Jupyter Notebook, NumPy, Data Science techniques.
-
-## Position of Responsibility
-
-### Associate | Next Tech Lab
-- Gained experience and knowledge about new technologies.
-- Worked on various projects related to Python, Data Science, Machine Learning, and Deep Learning.
-
-## Achievements/Extracurricular Activities
-
-- Participated in a 24-hour Hackathon called HACKSRM 4.O and built an AR-based model for the education sector.
-
-## Certifications & Courses
-
-- Data Analysis with Python
-  Visualizing Data Using Matplotlib and other python libraries.
-  April 2023
-  [Certificate link](certificate-link)
-
-- UI/UX
-  Learn the basics and fundamentals of UI/UX.
-  January 2023
-  [Certificate link](certificate-link)
-
-- Problem-Solving in Python 1
-  Solving coding questions using Python.
-  June 2023
-  [Certificate link](certificate-link)
-
-## Skills
-
-- Python
-- Jupyter Notebook
-- C/C++
-- HTML
-- CSS
+- 📬 Reach out to me at lokeshnagasaidarla@gmail.com
+- 🔮 looking forward to the opportunities to learn how to deploy machine learning models.
