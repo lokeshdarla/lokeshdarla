@@ -1,6 +1,6 @@
 # Lokesh Naga Sai Darla
 
-## Data Science • Machine Learning Engineer
+## Data Science • Machine Learning Engineer • Backend Developer
 
 - 🔭 I'm currently working on building machine learning models.
 - 🌱 I have experience in end-to-end Data Science projects.
