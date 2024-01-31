@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lokesh Naga Sai Darla</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdarla&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdarla" /> </p>
 
 - 🔭 I’m currently working on **Full stack projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **backend Work**
 
-- 💬 Ask me about **FastAPI**
+- 💬 Ask me about **FastAPI,ReactJs**
 
 - 📫 How to reach me **lokeshnagasaidarla@gmail.com**
 
