@@ -2,6 +2,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshdarla&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshdarla" /> </p>
 
+```typescript
+type Profile = {
+    Name: string;
+    Handle: string;
+    Location: string;
+    Languages: string[];
+    Projects: number;
+    Stars: number;
+    Followers: number;
+};
+
+// Constructing the Profile object
+const pegasus: Profile = {
+    Name: "Lokesh Naga Sai Darla",
+    Handle: "@lokeshdarla",
+    Location: "India",
+    Languages: ["Typescript", "Python", "C++", "C", "Javascript"],
+    Projects: 3,
+    Stars: 5,
+    Followers: 9,
+};
+```
+
+
+
 - 📫 How to reach me **lokeshnagasaidarla@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
