@@ -5,10 +5,10 @@
 ```typescript
 type Profile = {
     Name: string;
-    Handle: string;
     Location: string;
     Languages: string[];
-    Projects: number;
+    Learning: string;
+    AskMeAbout:string[];
     Stars: number;
     Followers: number;
 };
@@ -16,10 +16,10 @@ type Profile = {
 // Constructing the Profile object
 const pegasus: Profile = {
     Name: "Lokesh Naga Sai Darla",
-    Handle: "@lokeshdarla",
     Location: "India",
     Languages: ["Typescript", "Python", "C++", "C", "Javascript"],
-    Projects: 3,
+    Currently : "learning System Design",
+    AskMeAbout: ["React","Node","NEST","NEXT","FASTAPI"];
     Stars: 5,
     Followers: 9,
 };
